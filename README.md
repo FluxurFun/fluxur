@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="fluxur-banner.png" width="700"/>
+</p>
+
+<h1 align="center">Fluxur</h1>
+<p align="center">
+Provable on-chain commitment infrastructure on Solana.
+</p>
+
 # Fluxur
 
 Fluxur is a Solana-based protocol designed to make commitment provable, time-based, and publicly verifiable on-chain.
