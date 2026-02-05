@@ -1,0 +1,10 @@
+[images]
+  remote_images = ["https://source.unsplash.com/.*", "https://images.unsplash.com/.*", "https://ext.same-assets.com/.*", "https://ugc.same-assets.com/.*"]
+
+[build]
+  command = "bun run build"
+  publish = ".next"
+
+# Use Next.js runtime with Node, default plugin handles dynamic routes and API
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
