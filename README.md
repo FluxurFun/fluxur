@@ -94,7 +94,7 @@ Current phase:
 ## Links
 
 Website: https://fluxur.fun  
-Twitter (X): https://x.com/FluxurFun  
+X: https://x.com/FluxurFun  
 
 ---
 
