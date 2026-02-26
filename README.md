@@ -7,7 +7,7 @@
 Provable on-chain commitment infrastructure on Solana.
 </p>
 
-# Fluxu
+# Fluxur
 
 Fluxur is a Solana-based protocol designed to make commitment provable, time-based, and publicly verifiable on-chain.
 
